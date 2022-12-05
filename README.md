@@ -15,7 +15,7 @@ My Today I Learned snippets. Inspired by simonw/til, jbranchaud/til.
 
 ## pota
 
-- [The Day Resets at Midnight UTC](day-resets-at-midnight-UTC.md)
+- [The Day Resets at Midnight UTC](pota/day-resets-at-midnight-UTC.md)
 
 ## vim
 
