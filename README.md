@@ -8,9 +8,14 @@ My Today I Learned snippets. Inspired by simonw/til, jbranchaud/til.
 
 ## Categories
 
+- [Parks On The Air](#pota)
 - [vim](#vim)
 
 ---
+
+## pota
+
+- [The Day Resets at Midnight UTC](day-resets-at-midnight-UTC.md)
 
 ## vim
 
