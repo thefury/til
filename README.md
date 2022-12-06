@@ -18,8 +18,8 @@ My Today I Learned snippets. Inspired by simonw/til, jbranchaud/til.
 
 ## aws
 
-- [Displaying Tags in AWS CLI Output](displaying-tags-in-cli-output.md)
-- [Filtering CLI Output by Tag](filtering-aws-resources-by-tag.md)
+- [Displaying Tags in AWS CLI Output](aws/displaying-tags-in-cli-output.md)
+- [Filtering CLI Output by Tag](aws/filtering-aws-resources-by-tag.md)
 
 ## pota
 
